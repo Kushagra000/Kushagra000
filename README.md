@@ -38,9 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kushagra000&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br>
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/codERSunny"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codERSunny" /></a><a href="https://ko-fi.com/codersunny"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="codersunny" /></a></p><br><br>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kushagra000&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
